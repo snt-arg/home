@@ -1,4 +1,4 @@
-## Guidelines 
+## Guidelines: 
 Guidelines for snt-arg - [https://github.com/snt-arg/guidelines](https://github.com/snt-arg/guidelines)
 
 ## On-Going Projects:
@@ -18,7 +18,7 @@ Guidelines for snt-arg - [https://github.com/snt-arg/guidelines](https://github.
 - Researchers: [Meisam KABIRI](https://github.com/Meisam-Kabiri), [Dr. Hriday BAVLE](https://github.com/hridaybavle), [Dr. Jose-Luis SANCHEZ-LOPEZ](https://github.com/joselusl)
 
 
-## On-Going PhD Students
+## On-Going PhD Students:
 
 ### Meisam KABIRI
 - [Repo](Repo)
