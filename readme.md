@@ -1,7 +1,7 @@
-# Guidelines 
+## Guidelines 
 Guidelines for snt-arg - [https://github.com/snt-arg/guidelines](https://github.com/snt-arg/guidelines)
 
-# On-Going Projects:
+## On-Going Projects:
 
 ### SnT-Partnership Stugalux (2021-2024)
 - Stugalux Documentation - [Repo](Repo)
@@ -18,13 +18,13 @@ Guidelines for snt-arg - [https://github.com/snt-arg/guidelines](https://github.
 - Researchers: [Meisam KABIRI](https://github.com/Meisam-Kabiri), [Dr. Hriday BAVLE](https://github.com/hridaybavle), [Dr. Jose-Luis SANCHEZ-LOPEZ](https://github.com/joselusl)
 
 
-# On-Going PhD Students
+## On-Going PhD Students
 
 ### Meisam KABIRI
 - [Repo](Repo)
 
 
-# On-Going Postdocs
+## On-Going Postdocs
 
 ### Hriday BAVLE
 - [Github Profile](https://github.com/hridaybavle)
