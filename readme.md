@@ -24,11 +24,12 @@ Guidelines for snt-arg - [https://github.com/snt-arg/guidelines](https://github.
 
 # On-Going PhD Students
 
-## Meisam KABIRI
+### Meisam KABIRI
 - [Repo](Repo)
 
 
 # On-Going Postdocs
 
-## [Hriday BAVLE](https://github.com/hridaybavle)
+### Hriday BAVLE
+- [Github Profile](https://github.com/hridaybavle)
 - [Repo](Repo)
