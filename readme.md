@@ -3,7 +3,7 @@ Guidelines for snt-arg - [https://github.com/snt-arg/guidelines](https://github.
 
 # On-Going Projects:
 
-## Stugalux Projects
+## Stugalux Project
 - Stugalux Workspace - [https://github.com/snt-arg/stugalux_ws](https://github.com/snt-arg/stugalux_ws)
 - Stugalux Bringup - [https://github.com/snt-arg/stugalux_spot_bringup](https://github.com/snt-arg/stugalux_spot_bringup)
 - Stugalux Description - [https://github.com/snt-arg/stugalux_spot_description](https://github.com/snt-arg/stugalux_spot_description)
