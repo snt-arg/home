@@ -24,7 +24,7 @@ Guidelines for snt-arg - [https://github.com/snt-arg/guidelines](https://github.
 - [Github Profile](https://github.com/Meisam-Kabiri)
 - [Repo](Repo)
 
-#### Paul KREMAR
+#### Paul KREMER
 - [Github Profile](https://github.com/krepa098)
 - [Repo](Repo)
 
