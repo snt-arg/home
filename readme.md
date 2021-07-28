@@ -21,11 +21,61 @@ Guidelines for snt-arg - [https://github.com/snt-arg/guidelines](https://github.
 ## On-Going PhD Students:
 
 ### Meisam KABIRI
+- [Github Profile](https://github.com/Meisam-Kabiri)
 - [Repo](Repo)
 
+### Paul KREMAR
+- [Github Profile](https://github.com/krepa098)
+- [Repo](Repo)
+
+### Philippe LUDIVIG 
+- [Github Profile](https://github.com/phil333)
+- [Repo](Repo)
+
+### Eduardo SCHMIDT
+- [Github Profile](https://github.com/edufschmidt)
+- [Repo](Repo)
+
+### Claudio CIMARELLI
+- [Github Profile](https://github.com/ClaudioCimarelli)
+- [Repo](Repo)
+
+### Manuel CASTILLO LOPEZ
+- [Github Profile](https://github.com/manucalop)
+- [Repo](Repo)
+
+### Raja PANDI PERUMAL 
+- [Github Profile](https://github.com/rajaskyrider)
+- [Repo](Repo)
+
+### Alireza BAREKATAIN 
+- [Github Profile](https://github.com/abarekatain)
+- [Repo](Repo)
+
+### Ahmed MAHFOUZ 
+- [Github Profile](https://github.com/AhmedTahaha)
+- [Repo](Repo)
 
 ## On-Going Postdocs
+
+### Jose Luis SANCHEZ LOPEZ 
+- [Github Profile](https://github.com/joselusl)
+- [Repo](Repo)
+
+### Davide MENZIO
+- [Github Profile](https://github.com/abuIlyas)
+- [Repo](Repo)
 
 ### Hriday BAVLE
 - [Github Profile](https://github.com/hridaybavle)
 - [Repo](Repo)
+
+### Mohan DASARI
+- [Github Profile](https://github.com/dmohankkvr)
+- [Repo](Repo)
+
+### Hamed HABIBI
+- [Github Profile](https://github.com/Hamed28160)
+- [Repo](Repo)
+
+
